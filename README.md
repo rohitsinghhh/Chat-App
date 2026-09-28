@@ -1,4 +1,4 @@
-# PulseChat — Real-Time Chat App
+# Real-Time Chat App
 
 Full-stack real-time messaging with 1:1 and group chat, JWT auth, online presence, and typing indicators.
 
